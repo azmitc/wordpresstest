@@ -1,0 +1,182 @@
+2021-11-16T10:50:23+00:00 CRITICAL Uncaught Error: Call to undefined function add_meta_box() in C:\xampp\htdocs\wordpress-5.8.2\wordpress\wp-content\plugins\azmi-admin-menu\azmi-admin-menu.php:39
+Stack trace:
+#0 C:\xampp\htdocs\wordpress-5.8.2\wordpress\wp-includes\class-wp-hook.php(303): Custom_fields('')
+#1 C:\xampp\htdocs\wordpress-5.8.2\wordpress\wp-includes\class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#2 C:\xampp\htdocs\wordpress-5.8.2\wordpress\wp-includes\plugin.php(470): WP_Hook->do_action(Array)
+#3 C:\xampp\htdocs\wordpress-5.8.2\wordpress\wp-settings.php(578): do_action('init')
+#4 C:\xampp\htdocs\wordpress-5.8.2\wordpress\wp-config.php(96): require_once('C:\\xampp\\htdocs...')
+#5 C:\xampp\htdocs\wordpress-5.8.2\wordpress\wp-load.php(50): require_once('C:\\xampp\\htdocs...')
+#6 C:\xampp\htdocs\wordpress-5.8.2\wordpress\wp-blog-header.php(13): require_once('C:\\xampp\\htdocs...')
+#7 C:\xampp\htdocs\wordpress-5.8.2\wordpress\index.php(17): require('C:\\xampp\\htdocs...')
+#8 {main}
+  thrown in C:\xampp\htdocs\wordpress-5.8.2\wordpress\wp-content\plugins\azmi-admin-menu\azmi-admin-menu.php on line 39
+
+2021-11-16T10:50:25+00:00 CRITICAL Uncaught Error: Call to undefined function add_meta_box() in C:\xampp\htdocs\wordpress-5.8.2\wordpress\wp-content\plugins\azmi-admin-menu\azmi-admin-menu.php:39
+Stack trace:
+#0 C:\xampp\htdocs\wordpress-5.8.2\wordpress\wp-includes\class-wp-hook.php(303): Custom_fields('')
+#1 C:\xampp\htdocs\wordpress-5.8.2\wordpress\wp-includes\class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#2 C:\xampp\htdocs\wordpress-5.8.2\wordpress\wp-includes\plugin.php(470): WP_Hook->do_action(Array)
+#3 C:\xampp\htdocs\wordpress-5.8.2\wordpress\wp-settings.php(578): do_action('init')
+#4 C:\xampp\htdocs\wordpress-5.8.2\wordpress\wp-config.php(96): require_once('C:\\xampp\\htdocs...')
+#5 C:\xampp\htdocs\wordpress-5.8.2\wordpress\wp-load.php(50): require_once('C:\\xampp\\htdocs...')
+#6 C:\xampp\htdocs\wordpress-5.8.2\wordpress\wp-blog-header.php(13): require_once('C:\\xampp\\htdocs...')
+#7 C:\xampp\htdocs\wordpress-5.8.2\wordpress\index.php(17): require('C:\\xampp\\htdocs...')
+#8 {main}
+  thrown in C:\xampp\htdocs\wordpress-5.8.2\wordpress\wp-content\plugins\azmi-admin-menu\azmi-admin-menu.php on line 39
+
+2021-11-16T10:52:01+00:00 CRITICAL Uncaught Error: Call to undefined function add_meta_box() in C:\xampp\htdocs\wordpress-5.8.2\wordpress\wp-content\plugins\azmi-admin-menu\azmi-admin-menu.php:39
+Stack trace:
+#0 C:\xampp\htdocs\wordpress-5.8.2\wordpress\wp-includes\class-wp-hook.php(303): Custom_fields('')
+#1 C:\xampp\htdocs\wordpress-5.8.2\wordpress\wp-includes\class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#2 C:\xampp\htdocs\wordpress-5.8.2\wordpress\wp-includes\plugin.php(470): WP_Hook->do_action(Array)
+#3 C:\xampp\htdocs\wordpress-5.8.2\wordpress\wp-settings.php(578): do_action('init')
+#4 C:\xampp\htdocs\wordpress-5.8.2\wordpress\wp-config.php(96): require_once('C:\\xampp\\htdocs...')
+#5 C:\xampp\htdocs\wordpress-5.8.2\wordpress\wp-load.php(50): require_once('C:\\xampp\\htdocs...')
+#6 C:\xampp\htdocs\wordpress-5.8.2\wordpress\wp-blog-header.php(13): require_once('C:\\xampp\\htdocs...')
+#7 C:\xampp\htdocs\wordpress-5.8.2\wordpress\index.php(17): require('C:\\xampp\\htdocs...')
+#8 {main}
+  thrown in C:\xampp\htdocs\wordpress-5.8.2\wordpress\wp-content\plugins\azmi-admin-menu\azmi-admin-menu.php on line 39
+
+2021-11-16T10:52:03+00:00 CRITICAL Uncaught Error: Call to undefined function add_meta_box() in C:\xampp\htdocs\wordpress-5.8.2\wordpress\wp-content\plugins\azmi-admin-menu\azmi-admin-menu.php:39
+Stack trace:
+#0 C:\xampp\htdocs\wordpress-5.8.2\wordpress\wp-includes\class-wp-hook.php(303): Custom_fields('')
+#1 C:\xampp\htdocs\wordpress-5.8.2\wordpress\wp-includes\class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#2 C:\xampp\htdocs\wordpress-5.8.2\wordpress\wp-includes\plugin.php(470): WP_Hook->do_action(Array)
+#3 C:\xampp\htdocs\wordpress-5.8.2\wordpress\wp-settings.php(578): do_action('init')
+#4 C:\xampp\htdocs\wordpress-5.8.2\wordpress\wp-config.php(96): require_once('C:\\xampp\\htdocs...')
+#5 C:\xampp\htdocs\wordpress-5.8.2\wordpress\wp-load.php(50): require_once('C:\\xampp\\htdocs...')
+#6 C:\xampp\htdocs\wordpress-5.8.2\wordpress\wp-blog-header.php(13): require_once('C:\\xampp\\htdocs...')
+#7 C:\xampp\htdocs\wordpress-5.8.2\wordpress\index.php(17): require('C:\\xampp\\htdocs...')
+#8 {main}
+  thrown in C:\xampp\htdocs\wordpress-5.8.2\wordpress\wp-content\plugins\azmi-admin-menu\azmi-admin-menu.php on line 39
+
+2021-11-16T10:52:08+00:00 CRITICAL Uncaught Error: Call to undefined function add_meta_box() in C:\xampp\htdocs\wordpress-5.8.2\wordpress\wp-content\plugins\azmi-admin-menu\azmi-admin-menu.php:39
+Stack trace:
+#0 C:\xampp\htdocs\wordpress-5.8.2\wordpress\wp-includes\class-wp-hook.php(303): Custom_fields('')
+#1 C:\xampp\htdocs\wordpress-5.8.2\wordpress\wp-includes\class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#2 C:\xampp\htdocs\wordpress-5.8.2\wordpress\wp-includes\plugin.php(470): WP_Hook->do_action(Array)
+#3 C:\xampp\htdocs\wordpress-5.8.2\wordpress\wp-settings.php(578): do_action('init')
+#4 C:\xampp\htdocs\wordpress-5.8.2\wordpress\wp-config.php(96): require_once('C:\\xampp\\htdocs...')
+#5 C:\xampp\htdocs\wordpress-5.8.2\wordpress\wp-load.php(50): require_once('C:\\xampp\\htdocs...')
+#6 C:\xampp\htdocs\wordpress-5.8.2\wordpress\wp-blog-header.php(13): require_once('C:\\xampp\\htdocs...')
+#7 C:\xampp\htdocs\wordpress-5.8.2\wordpress\index.php(17): require('C:\\xampp\\htdocs...')
+#8 {main}
+  thrown in C:\xampp\htdocs\wordpress-5.8.2\wordpress\wp-content\plugins\azmi-admin-menu\azmi-admin-menu.php on line 39
+
+2021-11-16T10:52:09+00:00 CRITICAL Uncaught Error: Call to undefined function add_meta_box() in C:\xampp\htdocs\wordpress-5.8.2\wordpress\wp-content\plugins\azmi-admin-menu\azmi-admin-menu.php:39
+Stack trace:
+#0 C:\xampp\htdocs\wordpress-5.8.2\wordpress\wp-includes\class-wp-hook.php(303): Custom_fields('')
+#1 C:\xampp\htdocs\wordpress-5.8.2\wordpress\wp-includes\class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#2 C:\xampp\htdocs\wordpress-5.8.2\wordpress\wp-includes\plugin.php(470): WP_Hook->do_action(Array)
+#3 C:\xampp\htdocs\wordpress-5.8.2\wordpress\wp-settings.php(578): do_action('init')
+#4 C:\xampp\htdocs\wordpress-5.8.2\wordpress\wp-config.php(96): require_once('C:\\xampp\\htdocs...')
+#5 C:\xampp\htdocs\wordpress-5.8.2\wordpress\wp-load.php(50): require_once('C:\\xampp\\htdocs...')
+#6 C:\xampp\htdocs\wordpress-5.8.2\wordpress\wp-blog-header.php(13): require_once('C:\\xampp\\htdocs...')
+#7 C:\xampp\htdocs\wordpress-5.8.2\wordpress\index.php(17): require('C:\\xampp\\htdocs...')
+#8 {main}
+  thrown in C:\xampp\htdocs\wordpress-5.8.2\wordpress\wp-content\plugins\azmi-admin-menu\azmi-admin-menu.php on line 39
+
+2021-11-16T11:12:54+00:00 CRITICAL Uncaught Error: Call to undefined function add_meta_box() in C:\xampp\htdocs\wordpress-5.8.2\wordpress\wp-content\plugins\azmi-admin-menu\azmi-admin-menu.php:39
+Stack trace:
+#0 C:\xampp\htdocs\wordpress-5.8.2\wordpress\wp-includes\class-wp-hook.php(303): my_admin_samplepost('')
+#1 C:\xampp\htdocs\wordpress-5.8.2\wordpress\wp-includes\class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#2 C:\xampp\htdocs\wordpress-5.8.2\wordpress\wp-includes\plugin.php(470): WP_Hook->do_action(Array)
+#3 C:\xampp\htdocs\wordpress-5.8.2\wordpress\wp-settings.php(578): do_action('init')
+#4 C:\xampp\htdocs\wordpress-5.8.2\wordpress\wp-config.php(96): require_once('C:\\xampp\\htdocs...')
+#5 C:\xampp\htdocs\wordpress-5.8.2\wordpress\wp-load.php(50): require_once('C:\\xampp\\htdocs...')
+#6 C:\xampp\htdocs\wordpress-5.8.2\wordpress\wp-blog-header.php(13): require_once('C:\\xampp\\htdocs...')
+#7 C:\xampp\htdocs\wordpress-5.8.2\wordpress\index.php(17): require('C:\\xampp\\htdocs...')
+#8 {main}
+  thrown in C:\xampp\htdocs\wordpress-5.8.2\wordpress\wp-content\plugins\azmi-admin-menu\azmi-admin-menu.php on line 39
+
+2021-11-16T11:13:22+00:00 CRITICAL Uncaught Error: Call to undefined function add_meta_box() in C:\xampp\htdocs\wordpress-5.8.2\wordpress\wp-content\plugins\azmi-admin-menu\azmi-admin-menu.php:39
+Stack trace:
+#0 C:\xampp\htdocs\wordpress-5.8.2\wordpress\wp-includes\class-wp-hook.php(303): my_admin_samplepost('')
+#1 C:\xampp\htdocs\wordpress-5.8.2\wordpress\wp-includes\class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#2 C:\xampp\htdocs\wordpress-5.8.2\wordpress\wp-includes\plugin.php(470): WP_Hook->do_action(Array)
+#3 C:\xampp\htdocs\wordpress-5.8.2\wordpress\wp-settings.php(578): do_action('init')
+#4 C:\xampp\htdocs\wordpress-5.8.2\wordpress\wp-config.php(96): require_once('C:\\xampp\\htdocs...')
+#5 C:\xampp\htdocs\wordpress-5.8.2\wordpress\wp-load.php(50): require_once('C:\\xampp\\htdocs...')
+#6 C:\xampp\htdocs\wordpress-5.8.2\wordpress\wp-blog-header.php(13): require_once('C:\\xampp\\htdocs...')
+#7 C:\xampp\htdocs\wordpress-5.8.2\wordpress\index.php(17): require('C:\\xampp\\htdocs...')
+#8 {main}
+  thrown in C:\xampp\htdocs\wordpress-5.8.2\wordpress\wp-content\plugins\azmi-admin-menu\azmi-admin-menu.php on line 39
+
+2021-11-16T11:13:24+00:00 CRITICAL Uncaught Error: Call to undefined function add_meta_box() in C:\xampp\htdocs\wordpress-5.8.2\wordpress\wp-content\plugins\azmi-admin-menu\azmi-admin-menu.php:39
+Stack trace:
+#0 C:\xampp\htdocs\wordpress-5.8.2\wordpress\wp-includes\class-wp-hook.php(303): my_admin_samplepost('')
+#1 C:\xampp\htdocs\wordpress-5.8.2\wordpress\wp-includes\class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#2 C:\xampp\htdocs\wordpress-5.8.2\wordpress\wp-includes\plugin.php(470): WP_Hook->do_action(Array)
+#3 C:\xampp\htdocs\wordpress-5.8.2\wordpress\wp-settings.php(578): do_action('init')
+#4 C:\xampp\htdocs\wordpress-5.8.2\wordpress\wp-config.php(96): require_once('C:\\xampp\\htdocs...')
+#5 C:\xampp\htdocs\wordpress-5.8.2\wordpress\wp-load.php(50): require_once('C:\\xampp\\htdocs...')
+#6 C:\xampp\htdocs\wordpress-5.8.2\wordpress\wp-blog-header.php(13): require_once('C:\\xampp\\htdocs...')
+#7 C:\xampp\htdocs\wordpress-5.8.2\wordpress\index.php(17): require('C:\\xampp\\htdocs...')
+#8 {main}
+  thrown in C:\xampp\htdocs\wordpress-5.8.2\wordpress\wp-content\plugins\azmi-admin-menu\azmi-admin-menu.php on line 39
+
+2021-11-16T11:13:34+00:00 CRITICAL Uncaught Error: Call to undefined function add_meta_box() in C:\xampp\htdocs\wordpress-5.8.2\wordpress\wp-content\plugins\azmi-admin-menu\azmi-admin-menu.php:39
+Stack trace:
+#0 C:\xampp\htdocs\wordpress-5.8.2\wordpress\wp-includes\class-wp-hook.php(303): Custom_fields('')
+#1 C:\xampp\htdocs\wordpress-5.8.2\wordpress\wp-includes\class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#2 C:\xampp\htdocs\wordpress-5.8.2\wordpress\wp-includes\plugin.php(470): WP_Hook->do_action(Array)
+#3 C:\xampp\htdocs\wordpress-5.8.2\wordpress\wp-settings.php(578): do_action('init')
+#4 C:\xampp\htdocs\wordpress-5.8.2\wordpress\wp-config.php(96): require_once('C:\\xampp\\htdocs...')
+#5 C:\xampp\htdocs\wordpress-5.8.2\wordpress\wp-load.php(50): require_once('C:\\xampp\\htdocs...')
+#6 C:\xampp\htdocs\wordpress-5.8.2\wordpress\wp-blog-header.php(13): require_once('C:\\xampp\\htdocs...')
+#7 C:\xampp\htdocs\wordpress-5.8.2\wordpress\index.php(17): require('C:\\xampp\\htdocs...')
+#8 {main}
+  thrown in C:\xampp\htdocs\wordpress-5.8.2\wordpress\wp-content\plugins\azmi-admin-menu\azmi-admin-menu.php on line 39
+
+2021-11-16T11:13:35+00:00 CRITICAL Uncaught Error: Call to undefined function add_meta_box() in C:\xampp\htdocs\wordpress-5.8.2\wordpress\wp-content\plugins\azmi-admin-menu\azmi-admin-menu.php:39
+Stack trace:
+#0 C:\xampp\htdocs\wordpress-5.8.2\wordpress\wp-includes\class-wp-hook.php(303): Custom_fields('')
+#1 C:\xampp\htdocs\wordpress-5.8.2\wordpress\wp-includes\class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#2 C:\xampp\htdocs\wordpress-5.8.2\wordpress\wp-includes\plugin.php(470): WP_Hook->do_action(Array)
+#3 C:\xampp\htdocs\wordpress-5.8.2\wordpress\wp-settings.php(578): do_action('init')
+#4 C:\xampp\htdocs\wordpress-5.8.2\wordpress\wp-config.php(96): require_once('C:\\xampp\\htdocs...')
+#5 C:\xampp\htdocs\wordpress-5.8.2\wordpress\wp-load.php(50): require_once('C:\\xampp\\htdocs...')
+#6 C:\xampp\htdocs\wordpress-5.8.2\wordpress\wp-blog-header.php(13): require_once('C:\\xampp\\htdocs...')
+#7 C:\xampp\htdocs\wordpress-5.8.2\wordpress\index.php(17): require('C:\\xampp\\htdocs...')
+#8 {main}
+  thrown in C:\xampp\htdocs\wordpress-5.8.2\wordpress\wp-content\plugins\azmi-admin-menu\azmi-admin-menu.php on line 39
+
+2021-11-16T11:13:58+00:00 CRITICAL Uncaught Error: Call to undefined function add_meta_box() in C:\xampp\htdocs\wordpress-5.8.2\wordpress\wp-content\plugins\azmi-admin-menu\azmi-admin-menu.php:39
+Stack trace:
+#0 C:\xampp\htdocs\wordpress-5.8.2\wordpress\wp-includes\class-wp-hook.php(303): Custom_fields('')
+#1 C:\xampp\htdocs\wordpress-5.8.2\wordpress\wp-includes\class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#2 C:\xampp\htdocs\wordpress-5.8.2\wordpress\wp-includes\plugin.php(470): WP_Hook->do_action(Array)
+#3 C:\xampp\htdocs\wordpress-5.8.2\wordpress\wp-settings.php(578): do_action('init')
+#4 C:\xampp\htdocs\wordpress-5.8.2\wordpress\wp-config.php(96): require_once('C:\\xampp\\htdocs...')
+#5 C:\xampp\htdocs\wordpress-5.8.2\wordpress\wp-load.php(50): require_once('C:\\xampp\\htdocs...')
+#6 C:\xampp\htdocs\wordpress-5.8.2\wordpress\wp-admin\admin-ajax.php(22): require_once('C:\\xampp\\htdocs...')
+#7 {main}
+  thrown in C:\xampp\htdocs\wordpress-5.8.2\wordpress\wp-content\plugins\azmi-admin-menu\azmi-admin-menu.php on line 39
+
+2021-11-16T13:14:13+00:00 CRITICAL Uncaught Error: Call to undefined function add_meta_box() in C:\xampp\htdocs\wordpress-5.8.2\wordpress\wp-content\plugins\azmi-admin-menu\azmi-admin-menu.php:39
+Stack trace:
+#0 C:\xampp\htdocs\wordpress-5.8.2\wordpress\wp-includes\class-wp-hook.php(303): Custom_fields('')
+#1 C:\xampp\htdocs\wordpress-5.8.2\wordpress\wp-includes\class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#2 C:\xampp\htdocs\wordpress-5.8.2\wordpress\wp-includes\plugin.php(470): WP_Hook->do_action(Array)
+#3 C:\xampp\htdocs\wordpress-5.8.2\wordpress\wp-settings.php(578): do_action('init')
+#4 C:\xampp\htdocs\wordpress-5.8.2\wordpress\wp-config.php(96): require_once('C:\\xampp\\htdocs...')
+#5 C:\xampp\htdocs\wordpress-5.8.2\wordpress\wp-load.php(50): require_once('C:\\xampp\\htdocs...')
+#6 C:\xampp\htdocs\wordpress-5.8.2\wordpress\wp-admin\admin-ajax.php(22): require_once('C:\\xampp\\htdocs...')
+#7 {main}
+  thrown in C:\xampp\htdocs\wordpress-5.8.2\wordpress\wp-content\plugins\azmi-admin-menu\azmi-admin-menu.php on line 39
+
+\htdocs\wordpress-5.8.2\wordpress\wp-content\plugins\azmi-admin-menu\azmi-admin-menu.php on line 39
+
+2021-11-16T13:14:15+00:00 CRITICAL Uncaught Error: Call to undefined function add_meta_box() in C:\xampp\htdocs\wordpress-5.8.2\wordpress\wp-content\plugins\azmi-admin-menu\azmi-admin-menu.php:39
+Stack trace:
+#0 C:\xampp\htdocs\wordpress-5.8.2\wordpress\wp-includes\class-wp-hook.php(303): Custom_fields('')
+#1 C:\xampp\htdocs\wordpress-5.8.2\wordpress\wp-includes\class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#2 C:\xampp\htdocs\wordpress-5.8.2\wordpress\wp-includes\plugin.php(470): WP_Hook->do_action(Array)
+#3 C:\xampp\htdocs\wordpress-5.8.2\wordpress\wp-settings.php(578): do_action('init')
+#4 C:\xampp\htdocs\wordpress-5.8.2\wordpress\wp-config.php(96): require_once('C:\\xampp\\htdocs...')
+#5 C:\xampp\htdocs\wordpress-5.8.2\wordpress\wp-load.php(50): require_once('C:\\xampp\\htdocs...')
+#6 C:\xampp\htdocs\wordpress-5.8.2\wordpress\wp-blog-header.php(13): require_once('C:\\xampp\\htdocs...')
+#7 C:\xampp\htdocs\wordpress-5.8.2\wordpress\index.php(17): require('C:\\xampp\\htdocs...')
+#8 {main}
+  thrown in C:\xampp\htdocs\wordpress-5.8.2\wordpress\wp-content\plugins\azmi-admin-menu\azmi-admin-menu.php on line 39
+

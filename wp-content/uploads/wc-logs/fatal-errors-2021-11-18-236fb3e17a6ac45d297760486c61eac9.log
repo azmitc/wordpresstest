@@ -1,0 +1,60 @@
+2021-11-18T13:22:13+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\wordpress-5.8.2\wordpress\wp-content\plugins\wp-mail-smtp\src\Reports\Emails\Summary.php on line 434
+
+2021-11-18T23:09:13+00:00 CRITICAL Uncaught Error: Call to undefined function techiepress_query_garage_table() in C:\xampp\htdocs\wordpress-5.8.2\wordpress\wp-content\plugins\stackover-question\stackover-question.php:155
+Stack trace:
+#0 C:\xampp\htdocs\wordpress-5.8.2\wordpress\wp-includes\class-wp-hook.php(303): techiepress_insert_into_auto_cpt(Object(WP))
+#1 C:\xampp\htdocs\wordpress-5.8.2\wordpress\wp-includes\class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#2 C:\xampp\htdocs\wordpress-5.8.2\wordpress\wp-includes\plugin.php(518): WP_Hook->do_action(Array)
+#3 C:\xampp\htdocs\wordpress-5.8.2\wordpress\wp-includes\class-wp.php(763): do_action_ref_array('wp', Array)
+#4 C:\xampp\htdocs\wordpress-5.8.2\wordpress\wp-includes\functions.php(1291): WP->main('')
+#5 C:\xampp\htdocs\wordpress-5.8.2\wordpress\wp-blog-header.php(16): wp()
+#6 C:\xampp\htdocs\wordpress-5.8.2\wordpress\index.php(17): require('C:\\xampp\\htdocs...')
+#7 {main}
+  thrown in C:\xampp\htdocs\wordpress-5.8.2\wordpress\wp-content\plugins\stackover-question\stackover-question.php on line 155
+
+2021-11-18T23:09:14+00:00 CRITICAL Uncaught Error: Call to undefined function techiepress_query_garage_table() in C:\xampp\htdocs\wordpress-5.8.2\wordpress\wp-content\plugins\stackover-question\stackover-question.php:155
+Stack trace:
+#0 C:\xampp\htdocs\wordpress-5.8.2\wordpress\wp-includes\class-wp-hook.php(303): techiepress_insert_into_auto_cpt(Object(WP))
+#1 C:\xampp\htdocs\wordpress-5.8.2\wordpress\wp-includes\class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#2 C:\xampp\htdocs\wordpress-5.8.2\wordpress\wp-includes\plugin.php(518): WP_Hook->do_action(Array)
+#3 C:\xampp\htdocs\wordpress-5.8.2\wordpress\wp-includes\class-wp.php(763): do_action_ref_array('wp', Array)
+#4 C:\xampp\htdocs\wordpress-5.8.2\wordpress\wp-includes\functions.php(1291): WP->main(Array)
+#5 C:\xampp\htdocs\wordpress-5.8.2\wordpress\wp-admin\includes\post.php(1221): wp(Array)
+#6 C:\xampp\htdocs\wordpress-5.8.2\wordpress\wp-admin\includes\class-wp-posts-list-table.php(166): wp_edit_posts_query()
+#7 C:\xampp\htdocs\wordpress-5.8.2\wordpress\wp-admin\edit.php(225):  in C:\xampp\htdocs\wordpress-5.8.2\wordpress\wp-content\plugins\stackover-question\stackover-question.php on line 155
+
+2021-11-18T23:09:16+00:00 CRITICAL Uncaught Error: Call to undefined function techiepress_query_garage_table() in C:\xampp\htdocs\wordpress-5.8.2\wordpress\wp-content\plugins\stackover-question\stackover-question.php:155
+Stack trace:
+#0 C:\xampp\htdocs\wordpress-5.8.2\wordpress\wp-includes\class-wp-hook.php(303): techiepress_insert_into_auto_cpt(Object(WP))
+#1 C:\xampp\htdocs\wordpress-5.8.2\wordpress\wp-includes\class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#2 C:\xampp\htdocs\wordpress-5.8.2\wordpress\wp-includes\plugin.php(518): WP_Hook->do_action(Array)
+#3 C:\xampp\htdocs\wordpress-5.8.2\wordpress\wp-includes\class-wp.php(763): do_action_ref_array('wp', Array)
+#4 C:\xampp\htdocs\wordpress-5.8.2\wordpress\wp-includes\functions.php(1291): WP->main('')
+#5 C:\xampp\htdocs\wordpress-5.8.2\wordpress\wp-blog-header.php(16): wp()
+#6 C:\xampp\htdocs\wordpress-5.8.2\wordpress\index.php(17): require('C:\\xampp\\htdocs...')
+#7 {main}
+  thrown in C:\xampp\htdocs\wordpress-5.8.2\wordpress\wp-content\plugins\stackover-question\stackover-question.php on line 155
+
+2021-11-18T23:09:18+00:00 CRITICAL Uncaught Error: Call to undefined function techiepress_query_garage_table() in C:\xampp\htdocs\wordpress-5.8.2\wordpress\wp-content\plugins\stackover-question\stackover-question.php:155
+Stack trace:
+#0 C:\xampp\htdocs\wordpress-5.8.2\wordpress\wp-includes\class-wp-hook.php(303): techiepress_insert_into_auto_cpt(Object(WP))
+#1 C:\xampp\htdocs\wordpress-5.8.2\wordpress\wp-includes\class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#2 C:\xampp\htdocs\wordpress-5.8.2\wordpress\wp-includes\plugin.php(518): WP_Hook->do_action(Array)
+#3 C:\xampp\htdocs\wordpress-5.8.2\wordpress\wp-includes\class-wp.php(763): do_action_ref_array('wp', Array)
+#4 C:\xampp\htdocs\wordpress-5.8.2\wordpress\wp-includes\functions.php(1291): WP->main(Array)
+#5 C:\xampp\htdocs\wordpress-5.8.2\wordpress\wp-admin\includes\post.php(1221): wp(Array)
+#6 C:\xampp\htdocs\wordpress-5.8.2\wordpress\wp-admin\includes\class-wp-posts-list-table.php(166): wp_edit_posts_query()
+#7 C:\xampp\htdocs\wordpress-5.8.2\wordpress\wp-admin\edit.php(225):  in C:\xampp\htdocs\wordpress-5.8.2\wordpress\wp-content\plugins\stackover-question\stackover-question.php on line 155
+
+2021-11-18T23:09:20+00:00 CRITICAL Uncaught Error: Call to undefined function techiepress_query_garage_table() in C:\xampp\htdocs\wordpress-5.8.2\wordpress\wp-content\plugins\stackover-question\stackover-question.php:155
+Stack trace:
+#0 C:\xampp\htdocs\wordpress-5.8.2\wordpress\wp-includes\class-wp-hook.php(303): techiepress_insert_into_auto_cpt(Object(WP))
+#1 C:\xampp\htdocs\wordpress-5.8.2\wordpress\wp-includes\class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#2 C:\xampp\htdocs\wordpress-5.8.2\wordpress\wp-includes\plugin.php(518): WP_Hook->do_action(Array)
+#3 C:\xampp\htdocs\wordpress-5.8.2\wordpress\wp-includes\class-wp.php(763): do_action_ref_array('wp', Array)
+#4 C:\xampp\htdocs\wordpress-5.8.2\wordpress\wp-includes\functions.php(1291): WP->main('')
+#5 C:\xampp\htdocs\wordpress-5.8.2\wordpress\wp-blog-header.php(16): wp()
+#6 C:\xampp\htdocs\wordpress-5.8.2\wordpress\index.php(17): require('C:\\xampp\\htdocs...')
+#7 {main}
+  thrown in C:\xampp\htdocs\wordpress-5.8.2\wordpress\wp-content\plugins\stackover-question\stackover-question.php on line 155
+

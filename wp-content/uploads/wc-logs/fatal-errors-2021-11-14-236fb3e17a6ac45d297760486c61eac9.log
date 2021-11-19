@@ -1,0 +1,6 @@
+2021-11-14T11:34:25+00:00 CRITICAL require(): Failed opening required 'C:\xampp\htdocs\wordpress-5.8.2\uordpress\wp-content\plugins\woocommerce/packages/woocommerce-admin/src/PluginsInstaller.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\wordpress-5.8.2\wordpress\wp-content\plugins\woocommerce\vendor\jetpack-autoloader\class-php-autoloader.php on line 87
+
+2021-11-14T13:05:50+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\wordpress-5.8.2\wordpress\wp-includes\Requests\Transport\cURL.php on line 165
+
+2021-11-14T17:29:04+00:00 CRITICAL Maximum execution time of 120 seconds exceeded dans C:\xampp\htdocs\wordpress-5.8.2\wordpress\wp-includes\Requests\Transport\cURL.php à la ligne 165
+

@@ -1,0 +1,100 @@
+
+---Downloaded files---
+The import files for: Support Chat Platform were successfully downloaded!
+Initial max execution time = 120
+Files info:
+Site URL = http://localhost
+Data file = C:\xampp\htdocs\wordpress-5.8.2\wordpress/wp-content/uploads/2021/11/demo-content-import-file_2021-11-14__18-23-29.xml
+Widget file = C:\xampp\htdocs\wordpress-5.8.2\wordpress/wp-content/themes/saasland/inc/demos/all/widgets.wie
+Customizer file = not defined!
+Redux files:
+saasland_opt -> C:\xampp\htdocs\wordpress-5.8.2\wordpress/wp-content/themes/saasland/inc/demos/all/settings.json 
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+

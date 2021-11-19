@@ -1,0 +1,88 @@
+2021-11-19T12:25:53+00:00 CRITICAL Out of memory (allocated 75497472) (tried to allocate 20480 bytes) in C:\xampp\htdocs\wordpress-5.8.2\wordpress\wp-content\plugins\supportboard\supportboard\include\functions.php on line 2705
+
+2021-11-19T13:06:27+00:00 CRITICAL Out of memory (allocated 29360128) (tried to allocate 32768 bytes) in C:\xampp\htdocs\wordpress-5.8.2\wordpress\wp-content\themes\twentytwenty\classes\class-twentytwenty-customize.php on line 343
+
+2021-11-19T19:15:18+00:00 CRITICAL syntax error, unexpected '}', expecting end of file in C:\xampp\htdocs\wordpress-5.8.2\wordpress\wp-content\plugins\mitarbeiter-plugin\mitarbeiter-plugin.php on line 170
+
+2021-11-19T19:15:28+00:00 CRITICAL syntax error, unexpected '}', expecting end of file in C:\xampp\htdocs\wordpress-5.8.2\wordpress\wp-content\plugins\mitarbeiter-plugin\mitarbeiter-plugin.php on line 170
+
+2021-11-19T19:15:28+00:00 CRITICAL syntax error, unexpected '}', expecting end of file in C:\xampp\htdocs\wordpress-5.8.2\wordpress\wp-content\plugins\mitarbeiter-plugin\mitarbeiter-plugin.php on line 170
+
+2021-11-19T19:15:49+00:00 CRITICAL syntax error, unexpected '}', expecting end of file in C:\xampp\htdocs\wordpress-5.8.2\wordpress\wp-content\plugins\mitarbeiter-plugin\mitarbeiter-plugin.php on line 170
+
+2021-11-19T19:15:57+00:00 CRITICAL syntax error, unexpected '}', expecting end of file in C:\xampp\htdocs\wordpress-5.8.2\wordpress\wp-content\plugins\mitarbeiter-plugin\mitarbeiter-plugin.php on line 170
+
+2021-11-19T19:15:57+00:00 CRITICAL syntax error, unexpected '}', expecting end of file in C:\xampp\htdocs\wordpress-5.8.2\wordpress\wp-content\plugins\mitarbeiter-plugin\mitarbeiter-plugin.php on line 170
+
+2021-11-19T19:27:24+00:00 CRITICAL Uncaught Error: Call to undefined function query_garage_table() in C:\xampp\htdocs\wordpress-5.8.2\wordpress\wp-content\plugins\mitarbeiter-plugin\mitarbeiter-plugin.php:156
+Stack trace:
+#0 C:\xampp\htdocs\wordpress-5.8.2\wordpress\wp-includes\class-wp-hook.php(303): insert_into_auto_cpt(Object(WP))
+#1 C:\xampp\htdocs\wordpress-5.8.2\wordpress\wp-includes\class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#2 C:\xampp\htdocs\wordpress-5.8.2\wordpress\wp-includes\plugin.php(518): WP_Hook->do_action(Array)
+#3 C:\xampp\htdocs\wordpress-5.8.2\wordpress\wp-includes\class-wp.php(763): do_action_ref_array('wp', Array)
+#4 C:\xampp\htdocs\wordpress-5.8.2\wordpress\wp-includes\functions.php(1291): WP->main('')
+#5 C:\xampp\htdocs\wordpress-5.8.2\wordpress\wp-blog-header.php(16): wp()
+#6 C:\xampp\htdocs\wordpress-5.8.2\wordpress\index.php(17): require('C:\\xampp\\htdocs...')
+#7 {main}
+  thrown in C:\xampp\htdocs\wordpress-5.8.2\wordpress\wp-content\plugins\mitarbeiter-plugin\mitarbeiter-plugin.php on line 156
+
+2021-11-19T19:27:26+00:00 CRITICAL Uncaught Error: Call to undefined function query_garage_table() in C:\xampp\htdocs\wordpress-5.8.2\wordpress\wp-content\plugins\mitarbeiter-plugin\mitarbeiter-plugin.php:156
+Stack trace:
+#0 C:\xampp\htdocs\wordpress-5.8.2\wordpress\wp-includes\class-wp-hook.php(303): insert_into_auto_cpt(Object(WP))
+#1 C:\xampp\htdocs\wordpress-5.8.2\wordpress\wp-includes\class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#2 C:\xampp\htdocs\wordpress-5.8.2\wordpress\wp-includes\plugin.php(518): WP_Hook->do_action(Array)
+#3 C:\xampp\htdocs\wordpress-5.8.2\wordpress\wp-includes\class-wp.php(763): do_action_ref_array('wp', Array)
+#4 C:\xampp\htdocs\wordpress-5.8.2\wordpress\wp-includes\functions.php(1291): WP->main('')
+#5 C:\xampp\htdocs\wordpress-5.8.2\wordpress\wp-blog-header.php(16): wp()
+#6 C:\xampp\htdocs\wordpress-5.8.2\wordpress\index.php(17): require('C:\\xampp\\htdocs...')
+#7 {main}
+  thrown in C:\xampp\htdocs\wordpress-5.8.2\wordpress\wp-content\plugins\mitarbeiter-plugin\mitarbeiter-plugin.php on line 156
+
+2021-11-19T19:27:28+00:00 CRITICAL Uncaught Error: Call to undefined function query_garage_table() in C:\xampp\htdocs\wordpress-5.8.2\wordpress\wp-content\plugins\mitarbeiter-plugin\mitarbeiter-plugin.php:156
+Stack trace:
+#0 C:\xampp\htdocs\wordpress-5.8.2\wordpress\wp-includes\class-wp-hook.php(303): insert_into_auto_cpt(Object(WP))
+#1 C:\xampp\htdocs\wordpress-5.8.2\wordpress\wp-includes\class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#2 C:\xampp\htdocs\wordpress-5.8.2\wordpress\wp-includes\plugin.php(518): WP_Hook->do_action(Array)
+#3 C:\xampp\htdocs\wordpress-5.8.2\wordpress\wp-includes\class-wp.php(763): do_action_ref_array('wp', Array)
+#4 C:\xampp\htdocs\wordpress-5.8.2\wordpress\wp-includes\functions.php(1291): WP->main('')
+#5 C:\xampp\htdocs\wordpress-5.8.2\wordpress\wp-blog-header.php(16): wp()
+#6 C:\xampp\htdocs\wordpress-5.8.2\wordpress\index.php(17): require('C:\\xampp\\htdocs...')
+#7 {main}
+  thrown in C:\xampp\htdocs\wordpress-5.8.2\wordpress\wp-content\plugins\mitarbeiter-plugin\mitarbeiter-plugin.php on line 156
+
+2021-11-19T19:27:29+00:00 CRITICAL Uncaught Error: Call to undefined function query_garage_table() in C:\xampp\htdocs\wordpress-5.8.2\wordpress\wp-content\plugins\mitarbeiter-plugin\mitarbeiter-plugin.php:156
+Stack trace:
+#0 C:\xampp\htdocs\wordpress-5.8.2\wordpress\wp-includes\class-wp-hook.php(303): insert_into_auto_cpt(Object(WP))
+#1 C:\xampp\htdocs\wordpress-5.8.2\wordpress\wp-includes\class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#2 C:\xampp\htdocs\wordpress-5.8.2\wordpress\wp-includes\plugin.php(518): WP_Hook->do_action(Array)
+#3 C:\xampp\htdocs\wordpress-5.8.2\wordpress\wp-includes\class-wp.php(763): do_action_ref_array('wp', Array)
+#4 C:\xampp\htdocs\wordpress-5.8.2\wordpress\wp-includes\functions.php(1291): WP->main('')
+#5 C:\xampp\htdocs\wordpress-5.8.2\wordpress\wp-blog-header.php(16): wp()
+#6 C:\xampp\htdocs\wordpress-5.8.2\wordpress\index.php(17): require('C:\\xampp\\htdocs...')
+#7 {main}
+  thrown in C:\xampp\htdocs\wordpress-5.8.2\wordpress\wp-content\plugins\mitarbeiter-plugin\mitarbeiter-plugin.php on line 156
+
+2021-11-19T19:27:32+00:00 CRITICAL Uncaught Error: Call to undefined function query_garage_table() in C:\xampp\htdocs\wordpress-5.8.2\wordpress\wp-content\plugins\mitarbeiter-plugin\mitarbeiter-plugin.php:156
+Stack trace:
+#0 C:\xampp\htdocs\wordpress-5.8.2\wordpress\wp-includes\class-wp-hook.php(303): insert_into_auto_cpt(Object(WP))
+#1 C:\xampp\htdocs\wordpress-5.8.2\wordpress\wp-includes\class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#2 C:\xampp\htdocs\wordpress-5.8.2\wordpress\wp-includes\plugin.php(518): WP_Hook->do_action(Array)
+#3 C:\xampp\htdocs\wordpress-5.8.2\wordpress\wp-includes\class-wp.php(763): do_action_ref_array('wp', Array)
+#4 C:\xampp\htdocs\wordpress-5.8.2\wordpress\wp-includes\functions.php(1291): WP->main('')
+#5 C:\xampp\htdocs\wordpress-5.8.2\wordpress\wp-blog-header.php(16): wp()
+#6 C:\xampp\htdocs\wordpress-5.8.2\wordpress\index.php(17): require('C:\\xampp\\htdocs...')
+#7 {main}
+  thrown in C:\xampp\htdocs\wordpress-5.8.2\wordpress\wp-content\plugins\mitarbeiter-plugin\mitarbeiter-plugin.php on line 156
+
+2021-11-19T19:27:34+00:00 CRITICAL Uncaught Error: Call to undefined function query_garage_table() in C:\xampp\htdocs\wordpress-5.8.2\wordpress\wp-content\plugins\mitarbeiter-plugin\mitarbeiter-plugin.php:156
+Stack trace:
+#0 C:\xampp\htdocs\wordpress-5.8.2\wordpress\wp-includes\class-wp-hook.php(303): insert_into_auto_cpt(Object(WP))
+#1 C:\xampp\htdocs\wordpress-5.8.2\wordpress\wp-includes\class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#2 C:\xampp\htdocs\wordpress-5.8.2\wordpress\wp-includes\plugin.php(518): WP_Hook->do_action(Array)
+#3 C:\xampp\htdocs\wordpress-5.8.2\wordpress\wp-includes\class-wp.php(763): do_action_ref_array('wp', Array)
+#4 C:\xampp\htdocs\wordpress-5.8.2\wordpress\wp-includes\functions.php(1291): WP->main('')
+#5 C:\xampp\htdocs\wordpress-5.8.2\wordpress\wp-blog-header.php(16): wp()
+#6 C:\xampp\htdocs\wordpress-5.8.2\wordpress\index.php(17): require('C:\\xampp\\htdocs...')
+#7 {main}
+  thrown in C:\xampp\htdocs\wordpress-5.8.2\wordpress\wp-content\plugins\mitarbeiter-plugin\mitarbeiter-plugin.php on line 156
+
