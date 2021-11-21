@@ -28,7 +28,7 @@ two plugin offered by wordpress i used to display them in saasland theme.
 -azmi-admin-menu:
 to create a "optoionen" menu .
 -smart slider:
-Dislay all sliders images.
+Dislay all sliders images. i use a short code to display them
 -istagram-feed:
 GoogleTagManager:
 googleTagManagerPlugin offered by wordpress 
@@ -39,7 +39,11 @@ to add header and body tagmanagerplugin.
 i used the defaut single.php theme to display mitarbeiter information.
 i create another custom theme for tweenty tweenty to display all information named .
 single-template.php with template Name: "New Release".
-
+# RaodMap
+1)customizing different pages with elementor
+2) wornking on different design pages.
+3) implementing other pages related to mitarbeiter.
+4) adding different tables related to wordpressapp database and  wp_ecommerce_mitarbeiter table.
 
 
 
