@@ -1,5 +1,5 @@
 # WebThiner Wordpress
-Here a simple instruction about all diffrenet steps that i have don't on this wordpress project 
+Here a simple instruction about all different steps that i have doe on this wordpress project 
 
 # install
 *wordpress-5.8.2
